@@ -1,5 +1,8 @@
-PyQt5==5.15.11
-numpy==2.2.0
-opencv-python==4.10.0.84
-scikit-image==0.25.0
-pillow==11.0.0
+PyQt5
+numpy
+opencv-python
+scikit-image
+pillow
+matplotlib
+uuid
+shutil
