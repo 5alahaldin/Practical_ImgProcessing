@@ -1,5 +1,3 @@
 venv/
 bin/
 .vscode/
-release.sh
-release.bat
